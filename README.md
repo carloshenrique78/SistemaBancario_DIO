@@ -8,4 +8,4 @@ Neste simples programa simulo atividades dentro de um caixa de um banco
 | 0.0.2 | 27/07/2023 |
 |-------|------------|
 
-Nesta segunda versão o código ficou mais modular, agora é possível criar uma conta e vinculando ao cpf do seu usuário, mas ainda não é possível salvar as contas
+Nesta **segunda versão** o código ficou mais modular, agora é possível criar uma conta e vinculando ao cpf do seu usuário, mas ainda não é possível salvar as contas
