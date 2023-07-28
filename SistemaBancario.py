@@ -170,7 +170,7 @@ ERRO NO SAQUE! Três possíveis erros podem ter acontecido.
 2 - Você já fez quantidade máxima de saques diários.
 3 - Não há saldo suficiente na conta para fazer esse saque.
           
-{AMARELA}Para ter mais informações acesse o seu extrato\n.""")
+{AMARELA}Para ter mais informações acesse o seu extrato.\n""")
 
 main()
 
